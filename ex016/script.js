@@ -9,7 +9,7 @@ var numero6 = recebe * 7
 var numero7 = recebe * 8
 var numero8 = recebe * 9
 var numero9 = recebe * 10
-alert(` A taboada do 
+alert(` A tabuada do 
     ${recebe}x1=${numero}
    ${recebe}x2= ${numero1}
    ${recebe}x3= ${numero2}
